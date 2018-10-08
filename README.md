@@ -10,10 +10,10 @@
 
 ## 项目计划
 
-- [] canvas自定义绘制 
--[] vector2支持
--[] tween动画支持
--[] fouce属性进行中
--[×] 碰撞检测
--[×] IK/FK
--[×]2d to 3d
+- [ ] canvas自定义绘制 
+- [ ] vector2支持
+- [ ] tween动画支持
+- [ ] fouce属性进行中
+- [X] 碰撞检测
+- [X] IK/FK
+- [X] 2d to 3d
