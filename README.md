@@ -9,11 +9,11 @@
 
 
 ## 项目计划
-- [X] asss
-- [√] canvas自定义绘制 
--[√] vector2支持
--[√] tween动画支持
--[ing] fouce属性进行中
+
+- [] canvas自定义绘制 
+-[] vector2支持
+-[] tween动画支持
+-[] fouce属性进行中
 -[×] 碰撞检测
 -[×] IK/FK
 -[×]2d to 3d
